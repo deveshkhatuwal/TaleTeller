@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151023647693",
+    "project_id": "taleteller-cad30",
+    "storage_bucket": "taleteller-cad30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151023647693:android:ddb7fb651df436dc43a284",
+        "android_client_info": {
+          "package_name": "com.taletaller.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151023647693-bmntial83fgnb2hq45cn4h0hmr7n62lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXbMOm8J0zoCGTpV_SS9xZOKsRIvGE3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151023647693-bmntial83fgnb2hq45cn4h0hmr7n62lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
